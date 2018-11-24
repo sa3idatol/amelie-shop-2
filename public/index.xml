@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amelie shop</title>
+    <link>/</link>
+    <description>Recent content on amelie shop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacto</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Quién soy?</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Mi nombre es Umm Yumna, musulmana, madre y maestra de profesión. En mis últimos 8 años he estado aprendiendo la maravillosa y desafiante tarea de ser madre ¨homeschooler¨. Con ello se destapó una caja con muchas oportunidades para poder hacer uso de mis aprendizajes como maestra de educación especial y para buscar, adaptar, improvisar e innovar en mis propios métodos de enseñanza y aprendizaje. En la actualidad seguimos aprendiendo en casa, lejos del sistema educativo ordinario, y todas esas experiencias iniciales siguen sucediendo, así que día a día siempre me siento con ganas de mejorar.</description>
+    </item>
+    
+  </channel>
+</rss>

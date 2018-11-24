@@ -1,0 +1,45 @@
+[{
+    "id": "1",
+    "name": "Cuaderno de Arabe",
+    "price": 8,
+    "image": "/images/cuaderno01.jpg",
+    "description": "cuaderno para practicar y aprender la escritura de la lengua arabe",
+    "url": "http://snipcart-hugo.netlify.com"
+	
+	
+}, {
+    "id": "2",
+    "name": "flash card arabe",
+    "description": "flash card para aprender el alfabeto de la lengua arabe",
+    "price": 5 ,
+    "image": "/images/flashcardsarabe.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "3",
+    "name": "Cuaderno de Arabe",
+    "price": 8,
+    "image": "/images/cuaderno02.jpg",
+    "description": "cuaderno para practicar y aprender la escritura de la lengua arabe",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "4",
+    "name": "alfabeto mobil",
+    "description": "descripcion de alfabeto mobil",
+    "price": 5 ,
+    "image": "/images/alfabeto mobil.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "5",
+    "name": "Family",
+    "description": "family vocabulary english-arabic",
+    "price": 5 ,
+    "image": "/images/family.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "6",
+    "name": "Serie Rosa",
+    "description": "serie rosa serie rosa serie rosa",
+    "price": 5 ,
+    "image": "/images/serie rosa.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}]
